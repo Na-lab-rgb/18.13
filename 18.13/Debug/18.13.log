@@ -1,0 +1,7 @@
+﻿  18.13.cpp
+C:\Users\админ\source\repos\18.13\18.13.cpp(90,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\админ\source\repos\18.13\18.13.cpp(118,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\админ\source\repos\18.13\18.13.cpp(155,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pair.cpp
+  Создание кода...
+  18.13.vcxproj -> C:\Users\админ\source\repos\18.13\Debug\18.13.exe
